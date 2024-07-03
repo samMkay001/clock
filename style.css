@@ -1,0 +1,115 @@
+*{
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.parent{
+    position: relative;
+    padding: 25%;
+    width: 42%;
+    height: 50%;
+    margin-left: 25%;
+    border: 10px solid rebeccapurple;
+    margin-top: 5%;
+    border-radius: 300px;
+}
+.one{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 70%;
+    top: 7%;
+}
+.two{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 79%;
+    top: 20%;
+}
+.three{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 82%;
+    top: 40%;
+
+}
+.four{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 82%;
+    top: 60%;
+}
+.five{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 72%;
+    top: 80%;
+
+}
+.six{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 45%;
+    top: 85%;
+
+}
+.seven{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 20%;
+    top: 80%;
+
+}
+.eight{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 10%;
+    top: 60%;
+
+}
+.nine{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+
+}
+.ten{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+
+}
+.eleven{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 22%;
+    top: 7%;
+
+}
+.twelve{
+    font-size:90px;
+    font-weight: 800;
+    position: absolute;
+    left: 44%;
+    top: 2%;
+
+}
+.clock{
+    position: absolute;
+    left: 17%;
+    top: 20%;
+    font-size: 100px;
+    font-weight: 800;
+}
